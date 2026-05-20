@@ -1,3 +1,5 @@
+-- Example tasks:
+
 -- 1.
 SELECT ename, empno, job, sal, deptno FROM Emp
 WHERE job = 'CLERK';
