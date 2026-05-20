@@ -1,9 +1,3 @@
--- Mode: practice
--- Exported: 2026-05-20 04:09:24
--- ----------------------------------
-
--- Example tasks:
-
 -- 1.
 SELECT ename, empno, job, sal, deptno FROM Emp
 WHERE job = 'CLERK';
